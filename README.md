@@ -1,2 +1,2 @@
 # MarketPlace
-Use MySQL and .NET to complete a market platform.
+Use MySQL and .NET to implement a market platform.
